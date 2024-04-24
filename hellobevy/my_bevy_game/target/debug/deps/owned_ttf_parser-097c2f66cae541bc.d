@@ -1,0 +1,10 @@
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/libowned_ttf_parser-097c2f66cae541bc.rmeta: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/convert.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/owned.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/preparse.rs
+
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/libowned_ttf_parser-097c2f66cae541bc.rlib: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/convert.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/owned.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/preparse.rs
+
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/owned_ttf_parser-097c2f66cae541bc.d: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/convert.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/owned.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/preparse.rs
+
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/lib.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/convert.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/owned.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/preparse.rs:

@@ -1,0 +1,11 @@
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/libgetrandom-f1456fd99c3713e4.rmeta: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util_libc.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/macos.rs
+
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/libgetrandom-f1456fd99c3713e4.rlib: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util_libc.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/macos.rs
+
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/getrandom-f1456fd99c3713e4.d: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util_libc.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/macos.rs
+
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util_libc.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/macos.rs:

@@ -1,0 +1,10 @@
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/libbevy_ecs_macros-8a8aa455db1944d7.dylib: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/component.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/query_data.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/query_filter.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/states.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/world_query.rs
+
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/bevy_ecs_macros-8a8aa455db1944d7.d: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/component.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/query_data.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/query_filter.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/states.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/world_query.rs
+
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/lib.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/component.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/query_data.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/query_filter.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/states.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_ecs_macros-0.13.2/src/world_query.rs:

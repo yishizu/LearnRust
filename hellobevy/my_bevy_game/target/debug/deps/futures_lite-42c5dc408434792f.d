@@ -1,0 +1,11 @@
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/libfutures_lite-42c5dc408434792f.rmeta: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/future.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/prelude.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/stream.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/io.rs
+
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/libfutures_lite-42c5dc408434792f.rlib: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/future.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/prelude.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/stream.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/io.rs
+
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/futures_lite-42c5dc408434792f.d: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/future.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/prelude.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/stream.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/io.rs
+
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/lib.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/future.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/prelude.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/stream.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/io.rs:

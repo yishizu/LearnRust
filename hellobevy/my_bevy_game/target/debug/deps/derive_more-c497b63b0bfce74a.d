@@ -1,0 +1,10 @@
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/libderive_more-c497b63b0bfce74a.dylib: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/utils.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/display.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/error.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/from.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/parsing.rs
+
+/Users/ykish/Documents/GitHub/LearnRust/hellobevy/my_bevy_game/target/debug/deps/derive_more-c497b63b0bfce74a.d: /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/lib.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/utils.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/display.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/error.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/from.rs /Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/parsing.rs
+
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/lib.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/utils.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/display.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/error.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/from.rs:
+/Users/ykish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.17/src/parsing.rs:
